@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="37" errors="0" failures="0" skip="0"><testcase classname="test_calculatorApp.TestCalculate" name="test_AddInvalid" time="0.000"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_AddInvalidInput" time="0.000"><system-out><![CDATA[Setup .. 
+w input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_AddNullInput" time="0.000"><system-out><![CDATA[Setup .. 
+inputs can not be null
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_AddPass" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividByInvalidInput" time="0.001"><system-out><![CDATA[Setup .. 
+W input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividByInvalidInputRegex" time="0.001"><system-out><![CDATA[Setup .. 
+w input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividByNullRegex" time="0.000"><system-out><![CDATA[Setup .. 
+inputs can not be null
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividByNullValue" time="0.000"><system-out><![CDATA[Setup .. 
+inputs can not be null
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividByZerrorEx1" time="0.001"><system-out><![CDATA[Setup .. 
+You can't divide by zero!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividByZerrorRegex" time="0.001"><system-out><![CDATA[Setup .. 
+You can't divide by zero!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividInvalid" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividNullInput" time="0.001"><system-out><![CDATA[Setup .. 
+inputs can not be null
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividPa" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_DividPass" time="0.000"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_InvalidChoice" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_InvalidChoice2" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_InvalidChoiceRegex" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_InvalidChoiceRegex1" time="0.000"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_addInvalidInputRegex" time="0.000"><system-out><![CDATA[Setup .. 
+v input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_check_user_inputInvalid" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_check_user_inputInvalidInput" time="0.001"><system-out><![CDATA[Setup .. 
+W input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_check_user_inputInvalidInputRegex" time="0.001"><system-out><![CDATA[Setup .. 
+Input can't be empty
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_check_user_inputInvalidInputRegex2" time="0.001"><system-out><![CDATA[Setup .. 
+w input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_check_user_inputNullInput" time="0.000"><system-out><![CDATA[Setup .. 
+Input can't be empty
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_check_user_inputPass" time="0.000"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_isExitFalse" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_isExitTrue" time="0.000"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_multiplyInvalid" time="0.000"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_multiplyInvalidInput" time="0.000"><system-out><![CDATA[Setup .. 
+You can't divide by zero!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_multiplyNullInput" time="0.001"><system-out><![CDATA[Setup .. 
+inputs can not be null
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_multiplyPass" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_subtractInvalid" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_subtractInvalidInput" time="0.001"><system-out><![CDATA[Setup .. 
+w input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_subtractInvalidInputRegex" time="0.001"><system-out><![CDATA[Setup .. 
+v input is not a number!
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_subtractNullInput" time="0.001"><system-out><![CDATA[Setup .. 
+inputs can not be null
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_subtractPass" time="0.001"><system-out><![CDATA[Setup .. 
+tearDown .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculateWithoutMock" name="test_AddPass" time="0.000"></testcase></testsuite>
