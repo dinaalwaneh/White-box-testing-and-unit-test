@@ -117,10 +117,10 @@ class TestCalculate(unittest.TestCase):
             result = calculate('4',6,3)
         self.assertEqual(result, (6, '/', 3, '=', 2))
 
-    def test_multiplyInvalidInput(self):
+    def test_DividByZero(self):
         self.assertRaises(ZeroDivisionError, divide, 6,0)  
         
-    def test_DividPa(self):
+    def test_DividPass2(self):
         self.assertEqual(divide(6,3), 2)
         
     def test_DividNullInput(self):
